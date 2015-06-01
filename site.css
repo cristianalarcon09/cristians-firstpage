@@ -21,3 +21,10 @@ p{
 img{
 	margin: 0 auto;
 	}
+.profile{
+	-ms-transform: rotate(270deg); /* IE 9 */
+    -webkit-transform: rotate(270deg); /* Chrome, Safari, Opera */
+    transform: rotate(270deg);
+	border-radius: 90px;
+	margin-bottom: 30px;
+	}
